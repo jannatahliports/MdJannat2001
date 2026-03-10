@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Programming & Technology**
 - 💻 Interested in **Software Development**
 - 📍 Based in UAE
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **Email: xycoadnan@gmail.com**
 
 ---
 
