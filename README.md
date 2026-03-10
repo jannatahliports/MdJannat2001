@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Jannat</h1>
 <h3 align="center">Aspiring Developer | Learning Programming</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md%20Jannat&fontSize=40&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD%20Jannat%20Howlader&fontSize=40&fontAlignY=35" />
 
 ---
 
