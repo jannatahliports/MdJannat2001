@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Jannat</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md%20Jannat%20Howlader&fontSize=40&desc=Aspiring%20Developer%20|%20Learning%20Programming%20|%20Future%20Software%20Engineer&descAlignY=100&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md%20Jannat%20Howlader&fontSize=40&desc=Aspiring%20Developer%20|%20Learning%20Programming%20|%20Future%20Software%20Engineer&descAlignY=60&descAlign=50" />
 
 ## 👨‍💻 About Me
 
